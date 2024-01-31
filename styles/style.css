@@ -1,0 +1,11 @@
+p {
+            font-size: 2em;
+}
+
+p:first-child {
+    color: "#0000CC";
+}
+
+p:last-child{
+    color: "#CC0000";
+}
